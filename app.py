@@ -11,7 +11,6 @@ from image_analysis import get_model
 model = get_model()
 
 img_rows, img_cols = 300, 300
-model_path = 'image_sentiment_model.h5'
 
 # Custom CSS to style the app
 st.markdown("""
