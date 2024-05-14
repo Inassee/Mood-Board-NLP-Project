@@ -1,6 +1,8 @@
 # NLP Text-to-Image Mood Board Generator
 ## Project Overview
- 
+
+ ![Example output of the application](Ejemplo.png)
+
 The NLP Text-to-Image Mood Board Generator is a web application designed to analyze user-provided text for emotional content and generate a corresponding mood board with images. The project utilizes a combination of natural language processing (NLP) and deep learning for sentiment analysis and image retrieval.
 
 ## Project Components
